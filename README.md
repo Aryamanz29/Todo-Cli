@@ -1,3 +1,5 @@
+<h1 align="center">⚡TODO CLI ⚡</h1>
+
 [![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://vimeo.com/490621534)
 ## Getting started 🛠
 
